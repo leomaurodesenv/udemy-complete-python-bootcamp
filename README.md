@@ -9,8 +9,8 @@ ___
    
 ### Lessons
 
-- Section 1
-- Section 2
+- [Section 1](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-1.ipynb)
+- [Section 2](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-2.ipynb)
    
 ___
    
