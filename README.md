@@ -9,8 +9,9 @@ ___
    
 ### Lessons
 
-- [Section 1](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-1.ipynb)
-- [Section 2](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-2.ipynb)
+- [Section 1](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-1.ipynb): Course Overview
+- [Section 2](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-2.ipynb): Python Setup
+- [Section 3](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-3.ipynb): Python Object to Python Data Types
    
 ___
    
