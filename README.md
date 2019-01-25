@@ -14,6 +14,7 @@ ___
 - [Section 3](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-3.ipynb): Python Object to Python Data Types
 - [Section 4](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-4.ipynb): Python Comparison Operators
 - [Section 5](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-5.ipynb): Python Statements
+- [Section 6](https://github.com/leomaurodesenv/udemy-complete-python-bootcamp/blob/master/section-6.ipynb): Methods and Functions
    
 ___
    
