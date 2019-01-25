@@ -18,7 +18,34 @@ ___
    
 ___
    
+### Bonus: virtualenv
+
+_"A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them. This is one of the most important tools that most of the Python developers use."_ ([GeeksforGeeks](https://www.geeksforgeeks.org/python-virtual-environment/))
+   
+```shell
+#- install virtual environment
+sudo pip install virtualenv
+
+#- check python path
+which python
+which python3
+
+#- create environment
+virtualenv --python='<pythonPath>' ~/<environmentName>
+
+#- active environment
+source ~/<environmentName>/bin/activate
+
+#- deactivate environment
+deactivate
+
+#- remove environment
+rm -r ~/<environmentName>
+```
+
+___
+   
 ### Also look ~  	
-* Created by Leonardo Mauro (leo.mauro.desenv@gmail.com)   
-* Git: [leomaurodesenv](https://github.com/leomaurodesenv/)   
-* Site: [Portfolio](http://leonardomauro.com/portfolio/)   
+- Created by Leonardo Mauro (leo.mauro.desenv@gmail.com)   
+- GitHub: [leomaurodesenv](https://github.com/leomaurodesenv/)   
+- Site: [Portfolio](http://leonardomauro.com/portfolio/)   
