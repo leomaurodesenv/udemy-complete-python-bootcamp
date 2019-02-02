@@ -14,6 +14,7 @@
 - [Section 4](section-4.ipynb): Python Comparison Operators
 - [Section 5](section-5.ipynb): Python Statements
 - [Section 6](section-6.ipynb): Methods and Functions
+- [Section 7](section-7.ipynb): Milestone Project 1
    
 ---
 ### Bonus: virtualenv
