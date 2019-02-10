@@ -15,6 +15,7 @@
 - [Section 5](section-5.ipynb): Python Statements
 - [Section 6](section-6.ipynb): Methods and Functions
 - [Section 7](section-7.ipynb): Milestone Project 1
+- [Section 8](section-8.ipynb): Object Oriented Programming
    
 ---
 ### Bonus: virtualenv
