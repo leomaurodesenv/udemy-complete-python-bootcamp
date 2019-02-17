@@ -17,6 +17,7 @@
 - [Section 7](jupyter/section-7.ipynb): Milestone Project 1
 - [Section 8](jupyter/section-8.ipynb): Object Oriented Programming
 - [Section 9](jupyter/section-9.ipynb): Modules and Packages
+- [Section 10](jupyter/section-10.ipynb): Errors and Exceptions Handling
    
 ---
 ### Bonus: virtualenv
