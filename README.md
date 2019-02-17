@@ -3,19 +3,20 @@
 - Course: Complete Python Bootcamp: Go from zero to hero in Python 3   
 - Link: [Udemy](https://www.udemy.com/complete-python-bootcamp/), [GitHub](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)   
 - Mission: Complete this course in a maximum of 1 month   
-- Started/Ended: 08/01/2019 - x
+- Started/Ended: 01/08/2019 - x
    
 ---
 ### Lessons
 
-- [Section 1](section-1.ipynb): Course Overview
-- [Section 2](section-2.ipynb): Python Setup
-- [Section 3](section-3.ipynb): Python Object to Python Data Types
-- [Section 4](section-4.ipynb): Python Comparison Operators
-- [Section 5](section-5.ipynb): Python Statements
-- [Section 6](section-6.ipynb): Methods and Functions
-- [Section 7](section-7.ipynb): Milestone Project 1
-- [Section 8](section-8.ipynb): Object Oriented Programming
+- [Section 1](jupyter/section-1.ipynb): Course Overview
+- [Section 2](jupyter/section-2.ipynb): Python Setup
+- [Section 3](jupyter/section-3.ipynb): Python Object to Python Data Types
+- [Section 4](jupyter/section-4.ipynb): Python Comparison Operators
+- [Section 5](jupyter/section-5.ipynb): Python Statements
+- [Section 6](jupyter/section-6.ipynb): Methods and Functions
+- [Section 7](jupyter/section-7.ipynb): Milestone Project 1
+- [Section 8](jupyter/section-8.ipynb): Object Oriented Programming
+- [Section 9](jupyter/section-9.ipynb): Modules and Packages
    
 ---
 ### Bonus: virtualenv

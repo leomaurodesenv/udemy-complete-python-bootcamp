@@ -1,2 +1,5 @@
 # Jupyter tmp files 
 .ipynb_checkpoints/
+
+# Python Cache files
+__pycache__/
