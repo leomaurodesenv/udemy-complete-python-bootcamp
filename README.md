@@ -6,7 +6,7 @@
 - Started/Ended: 01/08/2019 - x
    
 ---
-### Lessons
+## Lessons
 
 - [Section 1](jupyter/section-1.ipynb): Course Overview
 - [Section 2](jupyter/section-2.ipynb): Python Setup
@@ -21,9 +21,11 @@
 - [Section 11](jupyter/section-11.ipynb): Milestone Project 2
 - [Section 12](jupyter/section-12.ipynb): Python Decorators
 - [Section 13](jupyter/section-13.ipynb): Python Generators
+- [Section 14](jupyter/section-14.ipynb): Final Capstone Python Project
+- [Section 15](jupyter/section-15.ipynb): Advanced Python Modules
    
 ---
-### Bonus: virtualenv
+## Bonus: virtualenv
 
 _"A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them. This is one of the most important tools that most of the Python developers use."_ ([GeeksforGeeks](https://www.geeksforgeeks.org/python-virtual-environment/))   
    
@@ -49,7 +51,6 @@ rm -r ~/<environmentName>
 ```
    
 ---
-### Also look ~  	
-- Created by Leonardo Mauro (leo.mauro.desenv@gmail.com)   
-- GitHub: [leomaurodesenv](https://github.com/leomaurodesenv/)   
-- Site: [Portfolio](http://leonardomauro.com/portfolio/)   
+## Also look ~
+
+- Created by Leonardo Mauro - [leomaurodesenv](https://github.com/leomaurodesenv/)
