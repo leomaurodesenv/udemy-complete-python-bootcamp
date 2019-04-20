@@ -1,9 +1,9 @@
-# Udemy Course #
+# Udemy Course
 
-- Course: Complete Python Bootcamp: Go from zero to hero in Python 3   
-- Link: [Udemy](https://www.udemy.com/complete-python-bootcamp/), [GitHub](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)   
-- Mission: Complete this course in a maximum of 1 month   
-- Started/Ended: 01/08/2019 - x
+- Course: Complete Python Bootcamp: Go from zero to hero in Python 3
+- Link: [Udemy](https://www.udemy.com/complete-python-bootcamp/), [GitHub](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+- Mission: Complete this course in a maximum of 1 month (_fail_)
+- Started/Ended: 01/08/2019 - 04/20/2019
    
 ---
 ## Lessons
@@ -23,6 +23,7 @@
 - [Section 13](jupyter/section-13.ipynb): Python Generators
 - [Section 14](jupyter/section-14.ipynb): Final Capstone Python Project
 - [Section 15](jupyter/section-15.ipynb): Advanced Python Modules
+- [Section 16](jupyter/section-16.ipynb): Advanced Python Objects and Data Structures
    
 ---
 ## Bonus: virtualenv
@@ -53,4 +54,4 @@ rm -r ~/<environmentName>
 ---
 ## Also look ~
 
-- Created by Leonardo Mauro - [leomaurodesenv](https://github.com/leomaurodesenv/)
+- Created by Leonardo Mauro ~ [leomaurodesenv](https://github.com/leomaurodesenv/)
